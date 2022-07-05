@@ -1,0 +1,98 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TestCode.cpp
+  SwitchToPlayModeAction.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  SwitchToDesignModeAction.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Snake.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  SaveGrid.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  RollDiceAction.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Player.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  PasteCard.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Output.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  OpenGrid.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  NewGame.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Main.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Ladder.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  InputDiceValue.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Input.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Grid.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  GameObject.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  DeleteGameObject.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CutCard.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CopyCard.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Generating Code...
+  Compiling...
+  windowinput.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\windowinput.cpp': No such file or directory
+  mousequeue.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\mousequeue.cpp': No such file or directory
+  keyqueue.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\keyqueue.cpp': No such file or directory
+  image.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\image.cpp': No such file or directory
+  colors.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\colors.cpp': No such file or directory
+  CMUgraphics.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\CMUgraphics.cpp': No such file or directory
+  auxil.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CMUgraphicsLib\auxil.cpp': No such file or directory
+  CellPosition.cpp
+  Cell.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardTwo.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardTwelve.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardThree.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardTen.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardSix.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardSeven.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardOne.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardNine.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardFour.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardFive.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  CardEleven.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Generating Code...
+  Compiling...
+  CardEight.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Card.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\UI_Info.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  ApplicationManager.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  AddSnake.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  AddLadderAction.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  AddCardAction.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Action.cpp
+C:\Users\SMS\source\repos\SalahAbotaleb\Ladder-and-Snake-Game\DEFS.h(4,10): fatal error C1083: Cannot open include file: 'CMUgraphicsLib\CMUgraphics.h': No such file or directory
+  Generating Code...
