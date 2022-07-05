@@ -12,7 +12,7 @@
 
 1. Snake, if player lands on the head of snake, snake will take the player to tail of snake-lower level(demerit).
 
-1. Coins, initially player’s wallet have 100 coins, to be able to roll dice you must have non zero coins
+1. Coins, initially player’s wallet has 100 coins, to be able to roll dice you must have non zero coins
 Every three turns the wallet is incremented.
 
 1. Cards, adds excitement to the game as player lands on a card behaves as the following table describes:
