@@ -1,5 +1,5 @@
 # **Ladder and Snakes Game**
-### Welcome to our game 
+### Welcome to our game :grinning:
 ![interface](https://drive.google.com/uc?export=view&id=1w8MToEaXp-t0iM0QhDt5YGiCu-4RevY0)
 ## **Introduction**
 ### This application allows you to design your own game grid and allows you to enjoy playing your game.
@@ -71,7 +71,7 @@ Extra features
 
 ### There is ability to switch between play mode and design mode as much as you whant.
 
-## *Me as Salah what did I learn from this project?*
+## *Me as Salah what did I learn from this project?* :blush:
 1. Object Oriented Programming Concepts: Inheritance, Polymorphism, and data encapsulation
 1. Dealing with GUI
 1. Teamwork
