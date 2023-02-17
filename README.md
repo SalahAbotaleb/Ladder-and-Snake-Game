@@ -1,6 +1,6 @@
 # **Ladder and Snakes Game**
 ### Welcome to our game :grinning:
-![interface](https://drive.google.com/uc?export=view&id=1w8MToEaXp-t0iM0QhDt5YGiCu-4RevY0)
+![interface](/readme_image/a.png)
 ## **Introduction**
 ### This application allows you to design your own game grid and allows you to enjoy playing your game.
 ## **Brief Describtion**
@@ -58,7 +58,7 @@ Extra features
 
 ### **Design Mode Features**
 
-![features](https://drive.google.com/uc?export=view&id=1WDLgvlgLPGdgfGvX7eVwtN5z5IFOWfhN)
+![features](/readme_image/b.PNG)
 
 ## **Play Mode**
 ### Mode where you can play and have fun
@@ -66,7 +66,7 @@ Extra features
 
 ### **Play Mode Features**
 
-![features](https://drive.google.com/uc?export=view&id=1Nsgts0RbTnZepdT0AifnGbTIiIDMlwkq)
+![features](/readme_image/c.PNG)
 
 
 ### There is ability to switch between play mode and design mode as much as you whant.
