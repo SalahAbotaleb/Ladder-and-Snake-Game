@@ -69,7 +69,7 @@ Extra features
 ![features](/readme_image/c.PNG)
 
 
-### There is ability to switch between play mode and design mode as much as you whant.
+### There is ability to switch between play mode and design mode as much as you want.
 
 ## *Me as Salah what did I learn from this project?* :blush:
 1. Object Oriented Programming Concepts: Inheritance, Polymorphism, and data encapsulation
